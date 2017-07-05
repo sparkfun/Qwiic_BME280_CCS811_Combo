@@ -1,0 +1,6 @@
+1) Do all VCC connections use the VCC symbol (oriented upward)? [NO]
+comment: 3.3V instead of VCC, should probably stay this way?
+
+2) Do all testpoints have a separation of at least 0.1 inch (preferably placed on a 0.05 inch grid)? [n/a]
+comment: no test points? I2C connectors for test
+
