@@ -17500,7 +17500,7 @@ Max Current: 14mA (estimate)</text>
 address of the CCS811.
 Open (Default) - 0x5B
 Closed - 0x5A</text>
-<text x="48.26" y="66.04" size="1.27" layer="97" align="center-right">JP5 connects 
+<text x="48.26" y="66.04" size="1.27" layer="97" align="center-right">JP1 connects 
 SDA and SCL 
 to 4.7k pull-up 
 resistors.</text>
