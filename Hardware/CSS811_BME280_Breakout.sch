@@ -17487,6 +17487,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="J1" library="SparkFun-Connectors" deviceset="I2C_STANDARD" device="QWIIC" value="Qwiic Right Angle"/>
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="REVISION" device=""/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME" device=".1_INCH"/>
+<part name="FD3" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
+<part name="FD4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 </parts>
 <sheets>
 <sheet>
@@ -17582,6 +17584,8 @@ Closed - 0x76
 </instance>
 <instance part="LOGO2" gate="G$1" x="148.59" y="6.858"/>
 <instance part="LOGO1" gate="G$1" x="88.9" y="2.54"/>
+<instance part="FD3" gate="G$1" x="241.3" y="27.94"/>
+<instance part="FD4" gate="G$1" x="241.3" y="25.4"/>
 </instances>
 <busses>
 </busses>
