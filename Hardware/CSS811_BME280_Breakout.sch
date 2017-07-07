@@ -17504,7 +17504,7 @@ Closed - 0x5A</text>
 SDA and SCL 
 to 4.7k pull-up 
 resistors.</text>
-<text x="238.76" y="7.62" size="2.54" layer="94" align="center-left">V01</text>
+<text x="238.76" y="7.62" size="2.54" layer="94" align="center-left">V10</text>
 <text x="170.688" y="12.446" size="2.54" layer="94" align="center-left">Nathan Seidle</text>
 <text x="214.376" y="120.396" size="1.27" layer="97" align="top-left">ADR2 sets the I2C address
 of the BME280.
