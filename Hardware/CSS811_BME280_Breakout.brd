@@ -169,7 +169,7 @@
 <text x="17.78" y="2.794" size="1.016" layer="22" font="vector" ratio="15" rot="MR90" align="center-left">3.3V</text>
 <text x="20.32" y="2.794" size="1.016" layer="22" font="vector" ratio="15" rot="MR90" align="center-left">GND</text>
 <text x="12.827" y="19.177" size="1.016" layer="21" font="vector" ratio="15" align="center">CCS811 / BME280</text>
-<text x="1.778" y="0.889" size="1.016" layer="16" ratio="20" rot="MR180" align="center">V10</text>
+<text x="1.778" y="0.889" size="1.016" layer="16" ratio="20" rot="MR180" align="center">v10</text>
 <text x="4.572" y="12.827" size="0.889" layer="22" font="vector" ratio="15" rot="MR90" align="center">ADR1</text>
 <text x="16.51" y="-21.59" size="1.778" layer="51">Nathan Seidle</text>
 <text x="12.827" y="19.939" size="1.016" layer="21" font="vector" ratio="15" align="center">Environmental Combo
