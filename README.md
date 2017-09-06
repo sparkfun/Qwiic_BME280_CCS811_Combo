@@ -1,7 +1,7 @@
-SparkFun CCS811/BME280 Combo Board>
+SparkFun CCS811/BME280 Combo Board
 ========================================
 
-![SparkfunCCS811/BME280 Combo Board](https://github.com/sparkfun/CCS811_Air_Quality_Breakout/blob/master/Documentation/readme_picture.jpg)
+![SparkfunCCS811/BME280 Combo Board](https://github.com/sparkfun/Qwiic_BME280_CCS811_Combo/blob/master/Documentation/readme_picture.jpg)
 
 [*Sparkfun Environmental Combo Breakout CCS811/BME280 (SEN-14348)*](https://www.sparkfun.com/products/14348)
 
