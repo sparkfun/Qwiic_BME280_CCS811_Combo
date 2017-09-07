@@ -124,7 +124,7 @@ void printData()
   //Serial.print(myBME280.readFloatAltitudeFeet(), 2);
   //Serial.print("]ft");
 
-  Serial.print(" humidty[");
+  Serial.print(" humidity[");
   Serial.print(myBME280.readFloatHumidity(), 0);
   Serial.print("]%");
 
