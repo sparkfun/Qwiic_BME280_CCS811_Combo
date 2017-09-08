@@ -11,7 +11,6 @@ Repository Contents
 -------------------
 
 * **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
 * **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Libraries** - Libraries for use with the <CCS811/BME280>
