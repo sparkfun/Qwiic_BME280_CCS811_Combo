@@ -39,6 +39,8 @@ void setup()
   Serial.begin(9600);
   Serial.println("CCS811+BME280 Read Example");
   
+  Wire.begin();//initialize I2C bus
+  
   CCS811Core::status returnCode = myCCS811.begin();
   if (returnCode != CCS811Core::SENSOR_SUCCESS)
   {
