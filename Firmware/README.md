@@ -1,7 +1,6 @@
-SparkFun <PRODUCT NAME> Firmware
+SparkFun CCS811/BME280 Qwiic Environmental Combo Breakout Firmware
 ===================================
 
-* **Examples** - <LANGUAGE> examples
-    * <EXAMPLE NAME> - <FUNCTION>
+* **Examples** - Arduino examples used in the Environmental Combo Hookup Guide
 
 
