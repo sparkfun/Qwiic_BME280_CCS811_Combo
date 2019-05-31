@@ -35,7 +35,9 @@ void setup()
   Serial.begin(9600);
   Serial.println();
   Serial.println("Apply BME280 data to CCS811 for compensation.");
-
+  
+  Wire.begin();//initialize I2C bus
+  
   //This begins the CCS811 sensor and prints error status of .begin()
   CCS811Core::status returnCode = myCCS811.begin();
   if (returnCode != CCS811Core::SENSOR_SUCCESS)
